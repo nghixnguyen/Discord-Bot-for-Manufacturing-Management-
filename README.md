@@ -1,7 +1,9 @@
 # Discord Bot for Manufacturing Management   
-● Built Python-powered Discord bot simulating AI manager for automotive manufacturing, providing manufacturers and distributors with insights into product quantity 
-● Designed MySQL database to streamline inventory, supplier, and distributor data, improving supply chain efficiency 
-● Deployed the bot on AWS RDS for seamless, scalable cloud access, enabling real-time interaction and data management 
+Built Python-powered Discord bot simulating AI manager for automotive manufacturing, providing manufacturers and distributors with insights into product quantity 
+
+Designed MySQL database to streamline inventory, supplier, and distributor data, improving supply chain efficiency 
+
+Deployed the bot on AWS RDS for seamless, scalable cloud access, enabling real-time interaction and data management 
 
 | Checkpoints |                      Description                      |         
 | ----------- | ----------------------------------------------------- | 
